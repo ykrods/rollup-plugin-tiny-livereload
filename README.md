@@ -1,9 +1,9 @@
 # rollup-plugin-tiny-livereload
-[WIP] rollup plugin for live reloading on devel
+[WIP] rollup plugin for live reload
 
 ## How to use
 
-``NOTICE:`` This plugin does not have a static server for built bundle(s).
+[NOTICE] This plugin does not have a static server. so combine this plugin with your favorite server.
 
 ```javascript
 // rollup.config.js
